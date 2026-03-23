@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "question": "What does Warren Buffett consider Rule No. 1 of investing?",
+    "options": ["Buy low, sell high", "Never lose money", "Diversify everything", "Follow the trend"],
+    "answer": 1,
+    "explanation": "Buffett's Rule No. 1: Never lose money. Rule No. 2: Never forget Rule No. 1."
+  },
+  {
+    "id": 2,
+    "question": "What is a company's 'moat' in investing terms?",
+    "options": ["Its stock price trend", "Its competitive advantage", "Its debt level", "Its dividend yield"],
+    "answer": 1,
+    "explanation": "An economic moat is a sustainable competitive advantage that protects a company from competitors, like a moat protects a castle."
+  },
+  {
+    "id": 3,
+    "question": "What does P/E ratio measure?",
+    "options": ["Profit per employee", "Price relative to earnings", "Portfolio efficiency", "Percentage of equity"],
+    "answer": 1,
+    "explanation": "Price-to-Earnings ratio compares a company's stock price to its earnings per share, indicating how much investors pay per dollar of earnings."
+  },
+  {
+    "id": 4,
+    "question": "According to Buffett, when should you be greedy?",
+    "options": ["When stocks are at all-time highs", "When others are fearful", "When interest rates are low", "When GDP is growing"],
+    "answer": 1,
+    "explanation": "'Be fearful when others are greedy, and greedy when others are fearful.' - Warren Buffett"
+  },
+  {
+    "id": 5,
+    "question": "What is Buffett's preferred holding period for a great company?",
+    "options": ["1 year", "5 years", "10 years", "Forever"],
+    "answer": 3,
+    "explanation": "'Our favorite holding period is forever.' - Warren Buffett"
+  },
+  {
+    "id": 6,
+    "question": "What is the 'margin of safety' concept in value investing?",
+    "options": ["Stop-loss orders", "Buying below intrinsic value", "Portfolio insurance", "Keeping cash reserves"],
+    "answer": 1,
+    "explanation": "Margin of safety means buying a stock at a significant discount to its intrinsic value, providing a buffer against errors in analysis."
+  },
+  {
+    "id": 7,
+    "question": "Who wrote 'The Intelligent Investor', Buffett's favorite investing book?",
+    "options": ["Charlie Munger", "Peter Lynch", "Benjamin Graham", "Philip Fisher"],
+    "answer": 2,
+    "explanation": "Benjamin Graham, Buffett's mentor, wrote 'The Intelligent Investor' which Buffett calls 'the best book about investing ever written.'"
+  },
+  {
+    "id": 8,
+    "question": "What does Buffett mean by 'circle of competence'?",
+    "options": ["A group of smart advisors", "Industries you understand well", "Top-performing stocks", "Blue-chip companies"],
+    "answer": 1,
+    "explanation": "Circle of competence means only investing in businesses and industries you truly understand, and staying away from those you don't."
+  },
+  {
+    "id": 9,
+    "question": "What is compound interest often called?",
+    "options": ["The investor's tax", "The eighth wonder of the world", "The market multiplier", "The wealth formula"],
+    "answer": 1,
+    "explanation": "Einstein allegedly called compound interest 'the eighth wonder of the world.' Buffett attributes much of his wealth to decades of compounding."
+  },
+  {
+    "id": 10,
+    "question": "What did Charlie Munger say about the key to investing success?",
+    "options": ["Trade frequently", "Use leverage wisely", "Invert, always invert", "Follow institutional investors"],
+    "answer": 2,
+    "explanation": "Munger's famous mental model: 'Invert, always invert.' Think about what could go wrong instead of just what could go right."
+  },
+  {
+    "id": 11,
+    "question": "What is dollar-cost averaging?",
+    "options": ["Buying only cheap stocks", "Investing a fixed amount at regular intervals", "Converting currencies for profit", "Averaging down on losing positions"],
+    "answer": 1,
+    "explanation": "Dollar-cost averaging means investing a fixed dollar amount regularly regardless of price, reducing the impact of volatility over time."
+  },
+  {
+    "id": 12,
+    "question": "What does ROE stand for in financial analysis?",
+    "options": ["Rate of Exchange", "Return on Equity", "Revenue over Expenses", "Risk of Erosion"],
+    "answer": 1,
+    "explanation": "Return on Equity measures how efficiently a company uses shareholder equity to generate profits. Buffett looks for companies with consistently high ROE."
+  },
+  {
+    "id": 13,
+    "question": "What type of investor buys when the market is pessimistic?",
+    "options": ["Momentum investor", "Day trader", "Contrarian investor", "Index investor"],
+    "answer": 2,
+    "explanation": "Contrarian investors go against the crowd, buying when others are selling and vice versa, aligned with Buffett's 'be greedy when others are fearful.'"
+  },
+  {
+    "id": 14,
+    "question": "What is the main risk Buffett associates with diversification?",
+    "options": ["Higher fees", "Protection against ignorance", "Lower returns guaranteed", "Tax complications"],
+    "answer": 1,
+    "explanation": "'Wide diversification is only required when investors do not understand what they are doing.' - Warren Buffett"
+  },
+  {
+    "id": 15,
+    "question": "What does Buffett recommend as the best investment for most people?",
+    "options": ["Individual stocks", "Real estate", "A low-cost S&P 500 index fund", "Government bonds"],
+    "answer": 2,
+    "explanation": "Buffett has repeatedly recommended low-cost S&P 500 index funds for most investors, even instructing his estate to invest this way."
+  },
+  {
+    "id": 16,
+    "question": "What is intrinsic value?",
+    "options": ["The current stock price", "The book value per share", "The estimated true worth of a business", "The 52-week average price"],
+    "answer": 2,
+    "explanation": "Intrinsic value is the calculated true worth of a company based on future cash flows, independent of its current market price."
+  },
+  {
+    "id": 17,
+    "question": "What mental model does Munger call 'the most reliable way to get what you want'?",
+    "options": ["First principles thinking", "Deserving what you want", "Following the herd", "Using maximum leverage"],
+    "answer": 1,
+    "explanation": "'The safest way to get what you want is to try and deserve what you want.' - Charlie Munger"
+  },
+  {
+    "id": 18,
+    "question": "In Buffett's view, what makes a truly great business?",
+    "options": ["High revenue growth", "Low taxes", "Ability to raise prices without losing customers", "Large market cap"],
+    "answer": 2,
+    "explanation": "Buffett says pricing power is the single most important criterion: 'If you've got the power to raise prices without losing business to a competitor, you've got a very good business.'"
+  },
+  {
+    "id": 19,
+    "question": "What is the 'Mr. Market' allegory about?",
+    "options": ["A stock trading algorithm", "Market manipulation by institutions", "An emotional business partner offering daily prices", "The Federal Reserve chairman"],
+    "answer": 2,
+    "explanation": "Benjamin Graham's Mr. Market is an allegory for the stock market as an emotional partner who offers to buy/sell shares daily at different prices. You can choose to trade or ignore him."
+  },
+  {
+    "id": 20,
+    "question": "What does Buffett say about investing in yourself?",
+    "options": ["It's overrated", "It's the best investment you can make", "It's secondary to stocks", "It only matters early in life"],
+    "answer": 1,
+    "explanation": "'The best investment you can make is in yourself.' Buffett emphasizes continuous learning and self-improvement as the foundation of investing success."
+  }
+]

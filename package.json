@@ -1,0 +1,20 @@
+{
+  "name": "keeprule-discord-bot",
+  "version": "1.0.0",
+  "description": "Investment principles Discord bot powered by KeepRule.com - daily wisdom from Buffett, Munger, and more",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "dev": "node --watch bot.js"
+  },
+  "keywords": ["discord", "bot", "investing", "buffett", "principles", "keeprule"],
+  "author": "William Wang",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.16.3",
+    "dotenv": "^16.4.7"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
